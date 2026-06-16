@@ -37,7 +37,16 @@ The master system prompt synthesizes three battle-tested PRD schools:
 ## Screenshots
 
 <img width="1710" height="991" alt="Screenshot 2026-06-16 at 11 24 20 AM" src="https://github.com/user-attachments/assets/544cd6d2-bfda-4a0f-9b6e-81bf7996a29b" />
-
+<img width="1710" height="991" alt="Screenshot 2026-06-16 at 11 24 29 AM" src="https://github.com/user-attachments/assets/b66c52ab-cd7e-4fda-8001-4ecb3f1a3801" />
+<img width="1710" height="991" alt="Screenshot 2026-06-16 at 11 24 39 AM" src="https://github.com/user-attachments/assets/d1d3c440-0b06-46ba-9fa0-15f45243568d" />
+<img width="1710" height="991" alt="Screenshot 2026-06-16 at 11 24 55 AM" src="https://github.com/user-attachments/assets/f4a661db-f051-4ea3-9a82-f60ccac7ffb2" />
+<img width="1710" height="991" alt="Screenshot 2026-06-16 at 11 25 06 AM" src="https://github.com/user-attachments/assets/1e75d81d-e5b5-4312-a4ff-98883cdb3928" />
+<img width="1710" height="991" alt="Screenshot 2026-06-16 at 11 25 15 AM" src="https://github.com/user-attachments/assets/3274dbd2-ec4a-4fb0-808e-caded7962727" />
+<img width="1710" height="991" alt="Screenshot 2026-06-16 at 11 25 22 AM" src="https://github.com/user-attachments/assets/b58da956-0d3b-4e89-8b6e-40d200853d8d" />
+<img width="1710" height="991" alt="Screenshot 2026-06-16 at 11 25 29 AM" src="https://github.com/user-attachments/assets/f9240524-64e6-417e-b906-129a5ede5ee9" />
+<img width="1710" height="991" alt="Screenshot 2026-06-16 at 11 25 39 AM" src="https://github.com/user-attachments/assets/5ccda6f2-40c2-4039-b6f0-eb02e9c42efd" />
+<img width="1710" height="991" alt="Screenshot 2026-06-16 at 11 25 55 AM" src="https://github.com/user-attachments/assets/532d1d25-6c1f-4c2d-a09d-07e156e74a42" />
+<img width="1710" height="991" alt="Screenshot 2026-06-16 at 11 26 03 AM" src="https://github.com/user-attachments/assets/0ca01db8-8c69-4183-b464-9f9891fd453d" />
 
 ---
 
