@@ -36,7 +36,8 @@ The master system prompt synthesizes three battle-tested PRD schools:
 
 ## Screenshots
 
-> *Add screenshots here after your first deploy.*
+<img width="1710" height="991" alt="Screenshot 2026-06-16 at 11 24 20 AM" src="https://github.com/user-attachments/assets/544cd6d2-bfda-4a0f-9b6e-81bf7996a29b" />
+
 
 ---
 
